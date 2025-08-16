@@ -67,4 +67,4 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 I’m always open to new opportunities, collaborations, and sharing knowledge.  
 **Feel free to reach out if you want to connect or work together!**
 
----
+--- <a href="https://link-tree-coral.vercel.app/">Links</a>
