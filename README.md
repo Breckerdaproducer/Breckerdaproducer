@@ -33,12 +33,11 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 
 ### Frameworks & Libraries
 - **React.js** – Building fast, scalable web interfaces
-- **React Native** – Creating cross-platform mobile apps
+- **Flutter** – Creating cross-platform mobile apps
 - **Next.js** – Production-grade React & server-side rendering
 - **Express.js** – Robust backend APIs and microservices
 - **Node.js** – Event-driven, non-blocking server environments
 - **Tailwind CSS** – Utility-first, modern styling
-- **Flutter** 
 
 ### Tools & Technologies
 - **Git & GitHub** – Version control and collaboration
