@@ -22,7 +22,7 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
 ### Languages
@@ -38,6 +38,7 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 - **Express.js** – Robust backend APIs and microservices
 - **Node.js** – Event-driven, non-blocking server environments
 - **Tailwind CSS** – Utility-first, modern styling
+- **Flutter** 
 
 ### Tools & Technologies
 - **Git & GitHub** – Version control and collaboration
@@ -50,7 +51,7 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 - **MySQL** – Reliable relational data storage
 - **Firebase** – Real-time data & authentication (when required)
 - **Vercel / Netlify** – Seamless deployment for web projects
-- **Linux/Unix CLI** – Power user for development environments
+
 
 ---
 
