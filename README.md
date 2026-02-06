@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Breckerdaproducer
+# 👋 Hi, I'm Whumo Brian Rinywe 
 
 Welcome to my portfolio! I am a passionate full-stack developer specializing in building modern web and mobile applications. I thrive on turning ideas into innovative, performant, and user-friendly digital products.
 
