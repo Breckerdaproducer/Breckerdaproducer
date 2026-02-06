@@ -68,20 +68,12 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 ## ✨ What I Build
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
-</p>
-
-<p align="center">
   Modern Web Applications • RESTful APIs • Mobile Apps • UI-Focused Interfaces • Scalable Backend Systems
 </p>
 
 ---
 
 ## 🧠 Development Philosophy
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 - Clean and maintainable code over quick fixes  
 - Performance and user experience first  
