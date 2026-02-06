@@ -1,4 +1,16 @@
-# 👋 Hi, I'm Whumo Brian Rinywe 
+<!-- Animated Header -->
+<h1 align="center">👋 Hi, I'm Whumo Brian Rinywe</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter;Building+Modern+Web+%26+Mobile+Applications;Turning+Ideas+Into+Real+Products" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Breckerdaproducer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Breckerdaproducer?label=Followers&style=social" />
+</p>
+
+---
 
 Welcome to my portfolio! I am a passionate full-stack developer specializing in building modern web and mobile applications. I thrive on turning ideas into innovative, performant, and user-friendly digital products.
 
@@ -51,6 +63,30 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 - **Firebase** – Real-time data & authentication (when required)
 - **Vercel / Netlify** – Seamless deployment for web projects
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Breckerdaproducer&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breckerdaproducer&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Breckerdaproducer&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Breckerdaproducer&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
