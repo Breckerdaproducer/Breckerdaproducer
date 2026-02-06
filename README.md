@@ -65,28 +65,28 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 
 ---
 
-## 📊 GitHub Statistics
+## ✨ What I Build
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breckerdaproducer&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breckerdaproducer&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+</p>
+
+<p align="center">
+  Modern Web Applications • RESTful APIs • Mobile Apps • UI-Focused Interfaces • Scalable Backend Systems
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🧠 Development Philosophy
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Breckerdaproducer&theme=tokyonight&hide_border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Breckerdaproducer&theme=tokyo-night&hide_border=true"/>
-</p>
+- Clean and maintainable code over quick fixes  
+- Performance and user experience first  
+- Continuous learning and improvement  
+- Building solutions that solve real problems  
 
 ---
 
