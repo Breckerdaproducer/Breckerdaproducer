@@ -1,3 +1,6 @@
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0051ff&height=120&section=header"/>
+
 <!-- Animated Header -->
 <h1 align="center">👋 Hi, I'm Whumo Brian Rinywe</h1>
 
@@ -17,6 +20,11 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 ---
 
 ## 🚀 Tech Stack
+
+<!-- Animated Tech Icons -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,php,laravel,tailwind,git,github,mongodb,mysql,firebase,flutter,docker,linux&perline=9" />
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -116,6 +124,22 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Breckerdaproducer&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Breckerdaproducer&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Breckerdaproducer&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🧠 Development Philosophy
 
 - Clean and maintainable code over quick fixes  
@@ -140,5 +164,16 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 I’m always open to new opportunities, collaborations, and sharing knowledge.  
 **Feel free to reach out if you want to connect or work together!**
 
---- 
+---
+
 <a href="https://link-tree-coral.vercel.app/" style="font-size: 1.3rem;">Links</a>
+
+---
+
+<!-- Snake Animation -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0051ff&height=120&section=footer"/>
