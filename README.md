@@ -2,154 +2,143 @@
 <h1 align="center">👋 Hi, I'm Whumo Brian Rinywe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter;DevOps+%7C+Cloud+Management;AI+Integration+Engineer;Building+Modern+Web+%26+Mobile+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter;Building+Modern+Web+%26+Mobile+Applications;Turning+Ideas+Into+Real+Products" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Breckerdaproducer&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Breckerdaproducer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Breckerdaproducer?label=Followers&style=social" />
 </p>
 
 ---
 
+Welcome to my portfolio! I am a passionate full-stack developer specializing in building modern web and mobile applications. I thrive on turning ideas into innovative, performant, and user-friendly digital products.
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-5a32c0f6-3b9b-44f7-8a68-89e0b0bdf7b3.gif" width="700">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+### Languages
+- **HTML5** – Semantic and accessible web markup
+- **CSS3** – Responsive layouts and animations
+- **JavaScript (ES6+)** – Interactive, dynamic applications
+- **PHP** – Backend scripting and server-side logic
+
+### Frameworks & Libraries
+- **React.js** – Building fast, scalable web interfaces
+- **Flutter** – Creating cross-platform mobile apps
+- **Next.js** – Production-grade React & server-side rendering
+- **Express.js** – Robust backend APIs and microservices
+- **Node.js** – Event-driven, non-blocking server environments
+- **Laravel** – Scalable PHP backend architecture and APIs
+- **Tailwind CSS** – Utility-first, modern styling
+
+### Tools & Technologies
+- **Git & GitHub** – Version control and collaboration
+- **REST APIs** – Building and integrating web services
+- **NPM & Yarn** – Package management
+- **VS Code** – My primary code editor
+- **Figma** – UI/UX prototyping and design
+- **Postman** – API development & testing
+- **MongoDB** – NoSQL database for scalable apps
+- **MySQL** – Reliable relational data storage
+- **Firebase** – Real-time data & authentication (when required)
+- **Vercel / Netlify** – Seamless deployment for web projects
+
+---
+
+## ⚙️ DevOps, Cloud & Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VPS-Management-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Infrastructure-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Server-Deployment-purple?style=for-the-badge"/>
+</p>
+
+- **DevOps Practices** – CI/CD workflows, automation and deployment pipelines  
+- **VPS Management** – Linux servers, SSH configuration, environment setup  
+- **Cloud Infrastructure** – Deployment and scaling of applications in cloud environments  
+- **Hosting Management** – Domain configuration, DNS, SSL, server optimization  
+- **Docker Basics** – Containerized application environments  
+
+---
+
+## 🤖 AI Integration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Integration-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-API-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-Tools-green?style=for-the-badge"/>
+</p>
+
+- **AI-powered features** in modern applications  
+- **Chatbot integrations & automation tools**  
+- **AI APIs integration** (text generation, automation, assistants)  
+- **Building smart features** that enhance user experience  
+
+---
+
+## ✨ What I Build
+
+<p align="center">
+  Modern Web Applications • RESTful APIs • Mobile Apps • UI-Focused Interfaces • Scalable Backend Systems • AI-Powered Solutions
 </p>
 
 ---
 
-# 🚀 About Me
+## 🧠 Development Philosophy
 
-Welcome to my portfolio!  
-I am a **Full-Stack Developer** passionate about building **modern, scalable web and mobile applications**.
-
-I specialize in **JavaScript ecosystems, cloud deployment, DevOps practices, and AI integrations**.  
-My focus is turning ideas into **real products that are fast, reliable, and user-friendly.**
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,php,laravel,flutter,tailwind,mongodb,mysql,firebase,git,github,vscode,figma,postman" />
-
-</p>
+- Clean and maintainable code over quick fixes  
+- Performance and user experience first  
+- Continuous learning and improvement  
+- Building solutions that solve real problems  
 
 ---
 
-# 🧑‍💻 Core Skills
+## 💡 About Me
 
-### 💻 Languages
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- PHP
-
-### ⚙️ Frameworks & Libraries
-- React.js
-- Next.js
-- Express.js
-- Node.js
-- Laravel
-- Flutter
-- Tailwind CSS
-
-### 🗄 Databases
-- MongoDB
-- MySQL
-- Firebase
-
-### ☁️ DevOps & Cloud
-- VPS Management
-- Linux Server Administration
-- CI/CD Workflows
-- Cloud Deployment
-- Nginx / Apache Setup
-- Domain & DNS Management
-- SSL Configuration
-- Performance Optimization
-
-### 🤖 AI Integration
-- AI API integrations
-- Automation with AI services
-- AI-powered application features
-- Intelligent workflows
-
-### 🛠 Tools
-- Git & GitHub
-- REST API Development
-- NPM / Yarn
-- Postman
-- VS Code
-- Figma
+- 🔍 I’m focused on writing clean, maintainable code and continuously learning new technologies.
+- 🤝 I enjoy collaborating on open-source projects and contributing to the tech community.
+- ⚡ Experienced with **DevOps workflows, server deployment, and cloud infrastructure.**
+- 🤖 Passionate about **AI-powered product development and automation.**
+- 🎯 My goal: Deliver solutions that are both visually appealing and technically robust.
 
 ---
 
-# ✨ What I Build
+## 📫 Let's Connect!
 
-<p align="center">
+I’m always open to new opportunities, collaborations, and sharing knowledge.  
+**Feel free to reach out if you want to connect or work together!**
 
-🌐 Modern Web Applications  
-📱 Cross-Platform Mobile Apps  
-⚡ RESTful APIs  
-🧠 AI-Powered Features  
-☁️ Cloud-Deployed Platforms  
-🎨 UI-Focused Interfaces  
-
-</p>
-
----
-
-# 🧠 Development Philosophy
-
-✔ Clean & Maintainable Code  
-✔ Performance First  
-✔ Scalable Architecture  
-✔ Continuous Learning  
-✔ Solve Real Problems
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Breckerdaproducer&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Breckerdaproducer&theme=tokyonight" />
-
-</p>
-
----
-
-# 🌐 Portfolio & Links
-
-<p align="center">
-
-<a href="https://link-tree-coral.vercel.app/">
-<img src="https://img.shields.io/badge/My%20Links-Visit%20Here-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-I’m always open to:
-
-- New opportunities
-- Collaborations
-- Freelance projects
-- Open-source contributions
-
-If you'd like to **build something amazing together**, feel free to reach out!
-
----
-
-<p align="center">
-
-⭐ *Turning ideas into real digital products.*
-
-</p>
+--- 
+<a href="https://link-tree-coral.vercel.app/" style="font-size: 1.3rem;">Links</a>
