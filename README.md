@@ -23,7 +23,7 @@ Welcome to my portfolio! I am a passionate full-stack developer specializing in 
 
 <!-- Animated Tech Icons -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,php,laravel,tailwind,git,github,mongodb,mysql,firebase,flutter,docker,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,php,laravel,tailwind,flutter,graphql,prisma,mongodb,mysql,postgres,redis,firebase,docker,nginx,aws,git,github,githubactions,linux,bash" />
 </p>
 
 ### Languages
