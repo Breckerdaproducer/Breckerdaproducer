@@ -135,15 +135,6 @@ Modern Web Applications • RESTful APIs • Mobile Applications • Enterprise 
 
 ---
 
-📈 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breckerdaproducer&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breckerdaproducer&layout=compact&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Breckerdaproducer&theme=tokyonight&hide_border=true"/>
-</p>---
-
 📫 Let's Connect
 
 I'm always open to new opportunities, collaborations, freelance projects, and discussions about technology.
