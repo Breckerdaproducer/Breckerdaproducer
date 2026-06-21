@@ -133,3 +133,4 @@ I’m always open to new opportunities, collaborations, and sharing knowledge.
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0051ff&height=120&section=footer"/>
+
